@@ -1,0 +1,123 @@
+cypress intro
+//=====================================
+
+1 cypress is web automation testing tool.
+2 morden web applications tool.
+3 react.js and angular js.
+4 any application which runs on browser javascrip.
+5 dose not use any selenium librery.
+6 it is open source. =>1 Test runner => free , 2 Dashboard => paid
+7 cypress is using node.js and it comes with package npm model
+8 suports only javascript or typescript
+
+
+who can use cypress => Dev & QA tester
+//=====================================
+
+1 End-to-End testing 
+2 integration tesing 
+3 unit testing
+4 api testing
+
+diff between selenium and cypress
+//===============================
+
+selenium 
+1 only web application suport.
+2 free of cost.
+3 difficult to setup & installation.
+4 languages => java, ruby, python, c#, javascript.
+5 Browser => chrome, edge, fierfox, safari, opera & IE11.
+6 framework suport => junit, TestNg, pyTest, etc. based on programing languge.
+7 runs outside of the browser. so performance is slow when compair with cypress.
+8 Reporting => inegrate with Extent, Allure etc..
+
+cypress 
+1 web & api application suport.
+2 Test runner-free Dashboard-paid.
+3 Easier setup and installation.
+4 Languages => javascript, typescript.
+5 Browsers => chrome, edge, firefox & Electron.
+6 mocha fremwork suport.
+7 faster since it runs inside of the browser.
+8 mocha reporters, cypress dashboard.
+
+
+cypress eco system
+//=================
+1 Test Runner ==> open source, locally installed
+2 Dashboard ==> paid
+
+Featurs
+//==========================
+1 Time travel
+2 Debuggability
+3 Automatic wait (built in waits)
+4 Consistant result
+5 Screenshots and videos record
+6 Cross browser tesing => locally or remotely
+
+limitations of cypress
+//========================
+1 we can't automate window based/Mobile apps
+2 Limited suport of browser
+3 javsscript and javascript only suport
+4 read and writing data into file is difficults
+5 Tird party reporting tool integration is also limitations
+
+Environment setup
+//===========================
+step 1 => Download & install Node.js
+step 2 => Visual studio code 
+step 3 => create new folder for project & open in vs code
+step 4 => open cmd/terminal then execute below command
+	  npm -i init ==> create package.json file
+step 5 => to install cypress
+	  npm install cypress --sev -dev
+step 6 => start cypress
+	  npx cypress open (Or) node_module/.bin/cypress open
+ 
+
+
+
+topics
+//===========
+1  login
+2  form
+3  radioButtons, Checboxess, Dropdown
+4  alert, prompt, confirm
+5  Traversal methods
+6  IFrame
+7  Promisses
+8  fixture
+9  Api testing
+10 Actions 
+11 cookies
+12 window command (forword, back, reload)
+13 switch tab
+14 custom command
+15 Page Object model 
+16 Hooks
+17 x-path
+18 sync and async
+19 BDD  
+20 shadow Dom
+21 calendar
+22 read write file
+
+
+complete 
+//==================
+1 login
+2 form
+3 radioButtons, Checboxess, Dropdown
+4 alert, prompt, confirm
+5 Traversal methods
+6 IFrame
+7 fixture
+8 read write file
+9 Actions
+10 page object model
+11 sync async 
+12 Hooks
+13 calendar
