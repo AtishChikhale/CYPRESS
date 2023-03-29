@@ -88,11 +88,11 @@ topics
 4  alert, prompt, confirm
 5  Traversal methods
 6  IFrame
-7  Promisses
+7  Promisses ================================================
 8  fixture
 9  Api testing
 10 Actions 
-11 cookies
+11 cookies 
 12 window command (forword, back, reload)
 13 switch tab
 14 custom command
@@ -101,7 +101,7 @@ topics
 17 x-path
 18 sync and async
 19 BDD  
-20 shadow Dom
+20 shadow Dom 
 21 calendar
 22 read write file
 
@@ -121,3 +121,12 @@ complete
 11 sync async 
 12 Hooks
 13 calendar
+14 Bdd
+15 x-path
+16 switch tab
+17 API
+18 window command (forword, back, reload)
+19 custom command
+20 shadow dom
+21 cookies
+22 Table
